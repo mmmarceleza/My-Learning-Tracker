@@ -1,4 +1,15 @@
-# My-Learning-Tracker
+# MARCELO'S LEARNING TRACKER
+
+![Under Construction](img/under_construction.png)  Project under construction.
+
+***
+
+<!-- Header -->
+
+| HOME | MY ARTICLES | PORTFOLIO | LEARNING LOG |
+|:---:|:---:|:---:|:---:|
+
+***
 
 The idea of this repository is to write all my journey to learn how to a better professional, improving my IT skills. I intend to add all information about my courses and all useful content of my interesting to log the details of this learning project.
 
