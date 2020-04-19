@@ -1,15 +1,15 @@
-# MARCELO'S LEARNING TRACKER
-
-![Under Construction](img/under_construction.png)  Project under construction.
-
 ***
-
-<!-- Header -->
 
 | [HOME](https://github.com/mmmarceleza/My-Learning-Tracker#marcelos-learning-tracker) | [MY ARTICLES](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/my-articles.md#my-articles) | [PORTFOLIO](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/portfolio.md#portfolio) | [LEARNING LOG](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/learning-log.md#learning-log) |
 |:---:|:---:|:---:|:---:|
 
 ***
+
+# MARCELO'S LEARNING TRACKER
+
+![Under Construction](img/under_construction.png)  Project under construction.
+
+
 
 The idea of this repository is to write all my journey to learn how to a better professional, improving my IT skills. I intend to add all information about my courses and all useful content of my interesting to log the details of this learning project.
 
