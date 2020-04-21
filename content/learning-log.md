@@ -7,3 +7,10 @@
 
 # LEARNING LOG
 
+## 2020 - April 19 
+
+In this date a completed a course about HTTP protocol on [Alura](https://alura.com.br):
+
+Reference:
+
+[![http](../img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http)
