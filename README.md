@@ -46,4 +46,4 @@ Where you can can find me on internet:
 
 |       x                       |    x                      |     |
 |:-----------------------------:|:-------------------------:|:---:|
-| [![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Markdown/Markdown.md#markdown-content) | [![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Docker/Docker.md#docker) | [![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/LPI_Essentials/LPI_Essentials.md) |
+| [![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Markdown/Markdown.md#markdown-content) | [![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Docker/Docker.md#docker) | [![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials) |
