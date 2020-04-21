@@ -4,9 +4,9 @@
 
 ## Completed Courses:
 
-| Courses | Certificate |
-|:---:|:---:|
-| [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/course/http-fundamentos) | [Certificate](https://cursos.alura.com.br/certificate/0f452ca5-fc30-41aa-9c7f-8067a3b14c4c)  |
+|  | Courses | Certificate |
+|:---:|:---:|:---:|
+| ![http](../../img/http-fundamentos.png) | [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/course/http-fundamentos) | [Certificate](https://cursos.alura.com.br/certificate/0f452ca5-fc30-41aa-9c7f-8067a3b14c4c)  |
 
 ***
 
