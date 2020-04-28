@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,14 +45,24 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="239.1697"
-     inkscape:cy="3.0221639"
+     inkscape:cx="142.35614"
+     inkscape:cy="0.85267237"
      inkscape:window-x="52"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="log"
      inkscape:showpageshadow="true"
      showborder="false" />
+  <rect
+     style="fill:#1befef;stroke:#ffffff;stroke-width:0.86272097;stroke-opacity:1;fill-opacity:1"
+     id="rect12"
+     width="271.3237"
+     height="39.13728"
+     x="47.660175"
+     y="216.93137"
+     ry="19.56864"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <g
      id="g20"
      transform="translate(-3.0947611,7.4152129)"
@@ -90,14 +100,4 @@
          id="tspan19"
          sodipodi:role="line">LEARNING LOG</tspan></text>
   </g>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:0.86272097;stroke-opacity:1"
-     id="rect12"
-     width="271.3237"
-     height="39.13728"
-     x="47.660175"
-     y="216.93137"
-     ry="19.56864"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
 </svg>
