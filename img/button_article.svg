@@ -36,8 +36,8 @@
    id="namedview25"
    showgrid="false"
    inkscape:zoom="5.5592892"
-   inkscape:cx="114.41379"
-   inkscape:cy="1.4981893"
+   inkscape:cx="82.03555"
+   inkscape:cy="0.77867286"
    inkscape:window-x="52"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
    height="38.979073"
    x="2.0239203"
    y="-6.93571"
-   style="fill:#1befef;stroke:#000000;stroke-width:1.02092731;stroke-opacity:1;fill-opacity:1"
+   style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:1.02092731;stroke-opacity:1;fill-opacity:1"
    ry="10" /><g
    id="g839"
    transform="translate(1.0725857,-0.62447901)"><g
@@ -113,6 +113,7 @@
      x="34.067799"
      id="tspan31"
      sodipodi:role="line">ARTICLES</tspan></text>
+
 
 
 </g>

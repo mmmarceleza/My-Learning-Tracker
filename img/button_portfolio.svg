@@ -31,8 +31,8 @@
    id="namedview14"
    showgrid="false"
    inkscape:zoom="3.6875"
-   inkscape:cx="312.11892"
-   inkscape:cy="250.61283"
+   inkscape:cx="306.424"
+   inkscape:cy="271.223"
    inkscape:window-x="52"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
 
 
 <rect
-   style="fill:#1befef;stroke:#ffffff;stroke-width:0.9262569;stroke-opacity:1;fill-opacity:1"
+   style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.9262569;stroke-opacity:1;fill-opacity:1"
    id="rect30"
    width="206.44662"
    height="39.073742"
@@ -65,6 +65,7 @@
      x="249.49155"
      id="tspan20"
      sodipodi:role="line">PORTFOLIO</tspan></text>
+
 
 <g
    inkscape:export-ydpi="96"
