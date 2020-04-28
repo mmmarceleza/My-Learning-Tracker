@@ -1,11 +1,11 @@
+# MARCELO'S LEARNING TRACKER
+
 ***
 
 | [![HOME](img/button_home.png)](https://github.com/mmmarceleza/My-Learning-Tracker#marcelos-learning-tracker) | [![MY ARTICLES](img/button_article.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/my-articles.md#my-articles) | [![PORTFOLIO](img/button_portfolio.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/portfolio.md#portfolio) | [![LEARNING LOG](img/button_log.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/learning-log.md#learning-log) |
 |:---:|:---:|:---:|:---:|
 
 ***
-
-# MARCELO'S LEARNING TRACKER
 
 ![Under Construction](img/under_construction.png)  Project under construction.
 
