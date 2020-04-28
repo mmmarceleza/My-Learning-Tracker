@@ -4,8 +4,9 @@
 
 ***
 
-![Under Construction](img/under_construction.png)  Project under construction.
+![Under Construction](img/under_construction.png)  &nbsp; &nbsp; Project under construction.
 
+***
 
 The idea of this repository is to write all my journey to learn how to a better professional, improving my IT skills. I intend to add all information about my courses and all useful content of my interesting to log the details of this learning project.
 
@@ -17,28 +18,23 @@ Where you can can find me on internet:
 
 [![Twitter](img/twitter.png)](https://twitter.com/mmmarceleza) &nbsp; &nbsp; [![Linkedin](img/linkedin.png)](https://www.linkedin.com/in/marcelomarquesmelo/) &nbsp; &nbsp; [![Github](img/github.png)](https://github.com/mmmarceleza)
 
+## What I do
+
+
 ## Steps of learning
 
-- UI
-- HTML5
-- CSS3
-- Sass
-- Vanilla JavaScript
-- Git
-- React
-- Node.js
-- Databases
-- SSH
-- Apache
-- Nginx
-- Docker
-- SSL
-- Markdown
-- Vim
 
-***
 
-## Tools i use
+## Tools I use
+
+
+## My Influences
+
+### People
+
+### Sites
+
+### Podcasts
 
 
 
