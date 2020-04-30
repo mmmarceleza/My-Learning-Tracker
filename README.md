@@ -23,10 +23,27 @@ Where you can can find me on internet:
 
 ## Steps of learning
 
+In this section I'll put my roadmap to learn IT.
+
 
 
 ## Tools I use
 
+- Operational system: [Ubuntu 20.04](https://ubuntu.com/)
+- Note app: [Joplin](https://joplinapp.org/)
+- Password manager: [Keepass](https://keepass.info/)
+- Browser: [Firefox](https://www.mozilla.org/)
+- Browser extensions: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+- E-mail provider: [Protonmail](https://protonmail.com/)
+- Search engine: [DuckDuckGo](https://duckduckgo.com/)
+- VPN: [NordVPN](https://nordvpn.com/)
+- Two Factor Authentication: [Authy](https://authy.com/)
+- File storage: [Nextcloud](https://nextcloud.com/)
+- Bookmarks manager: [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks)
+- Calendar: [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)
+- Contacts: [Nextcloud Contacts](https://apps.nextcloud.com/apps/contacts) 
+- Task manager: [Todoist](https://todoist.com/)
+- Editor: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## My Influences
 
