@@ -57,6 +57,26 @@ In this section I'll put my roadmap to learn IT.
 
 ## My notes about some tools
 
-|       x                       |    x                      |     |
-|:-----------------------------:|:-------------------------:|:---:|
-| [![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Markdown/Markdown.md#markdown-content) | [![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/Docker/Docker.md#docker) | [![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials) |
+[![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Markdown/Markdown.md#markdown) 
+
+[![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Docker/Docker.md#docker)
+
+[![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials)
+
+[![AWS](img/aws.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/AWS/AWS.md#aws)
+
+[![Git](img/git.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Git/Git.md#git)
+
+[![HTTP](img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http)
+
+[![SSH](img/ssh.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/SSH/ssh.md#ssh)
+
+[![UI](img/ui.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/UI/UI.md#ui)
+
+[![VIM](img/vim.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Vim/Vim.md#vim)
+
+[![](img/.png)]()
+
+[![](img/.png)]()
+
+[![](img/.png)]()
