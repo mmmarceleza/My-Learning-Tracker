@@ -57,19 +57,23 @@ In this section I'll put my roadmap to learn IT.
 
 ## My notes about some tools
 
-[![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Markdown/Markdown.md#markdown) 
+| Linux Essentials | Markdown | Git | SSH |
+|:----------------:|:--------:|:---:|:---:|
+| [![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials) | [![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Markdown/Markdown.md#markdown) | [![Git](img/git.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Git/Git.md#git) | [![SSH](img/ssh.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/SSH/ssh.md#ssh) |
+
+
 
 [![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Docker/Docker.md#docker)
 
-[![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials)
+
 
 [![AWS](img/aws.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/AWS/AWS.md#aws)
 
-[![Git](img/git.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Git/Git.md#git)
+
 
 [![HTTP](img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http)
 
-[![SSH](img/ssh.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/SSH/ssh.md#ssh)
+
 
 [![UI](img/ui.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/UI/UI.md#ui)
 
