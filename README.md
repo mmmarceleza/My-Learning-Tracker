@@ -60,9 +60,9 @@ In this section I'll put my roadmap to learn IT.
 | Linux Essentials | Markdown | Git | SSH | Vim | Docker |
 |:----------------:|:--------:|:---:|:---:|:---:|:---:|
 | [![Linux](img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials) | [![Markdown](img/markdown.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Markdown/Markdown.md#markdown) | [![Git](img/git.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Git/Git.md#git) | [![SSH](img/ssh.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/SSH/ssh.md#ssh) | [![VIM](img/vim.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Vim/Vim.md#vim) | [![Docker](img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Docker/Docker.md#docker) |
-| Http | HTML5 | CSS3 | JavaScript | Tmux | AWS |
+| **HTTP** | **HTML5** | **CSS3** | **JavaScript** | **Tmux** | **AWS** |
 | [![HTTP](img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http) | [![HTML5](img/html5.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/HTML/html.md#html) | [![CSS3](img/css3.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/CSS/css.md#css) | [![JAVASCRIPT](img/js.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/JavaScript/javascript.md#javascript) | [![TMUX](img/tmux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Tmux/tmux.md#tmux) | [![AWS](img/aws.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/AWS/AWS.md#aws) |
-| UI |  |  |  |  |  |
+| **UI** |  |  |  |  |  |
 | [![UI](img/ui.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/UI/UI.md#ui) |  |  |  |  |  |
 
 
