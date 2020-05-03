@@ -75,8 +75,12 @@ In this section I'll put my roadmap to learn IT.
 
 [![VIM](img/vim.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Vim/Vim.md#vim)
 
-[![](img/.png)]()
+[![CSS3](img/css3.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/CSS/css.md#css)
 
-[![](img/.png)]()
+[![HTML5](img/html5.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/HTML/html.md#html)
+
+[![JAVASCRIPT](img/js.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/JavaScript/javascript.md#javascript)
+
+[![TMUX](img/tmux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Tmux/tmux.md#tmux)
 
 [![](img/.png)]()
