@@ -7,7 +7,7 @@
 
 |   | Courses | Certificate |
 |:---:|:---:|:---:|
-| ![Redes](../../img/redes-introducao.png) | [Redes parte 1: Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao) | [Certificate](https://cursos.alura.com.br/certificate/0f452ca5-fc30-41aa-9c7f-8067a3b14c4c) |
+| ![Redes](../../img/redes-introducao.png) | [Redes parte 1: Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao) | [Certificate](https://cursos.alura.com.br/certificate/84acbdd7-ec2d-427a-bd54-0ecfb4d092e9) |
 
 ***
 
