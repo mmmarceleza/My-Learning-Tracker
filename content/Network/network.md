@@ -3,6 +3,13 @@
 [![HOME](../../img/button_home.png)](https://github.com/mmmarceleza/My-Learning-Tracker#marcelos-learning-tracker) &nbsp; &nbsp; [![MY ARTICLES](../../img/button_article.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/my-articles.md#my-articles) &nbsp; &nbsp; [![PORTFOLIO](../../img/button_portfolio.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/portfolio.md#portfolio) &nbsp; &nbsp; [![LEARNING LOG](../../img/button_log.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/learning-log.md#learning-log)
 
 ***
+## Completed Courses:
+
+|   | Courses | Certificate |
+|:---:|:---:|:---:|
+| ![Redes](../../img/redes-introducao.png) | [Redes parte 1: Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao) | [Certificate](https://cursos.alura.com.br/certificate/0f452ca5-fc30-41aa-9c7f-8067a3b14c4c) |
+
+***
 
 ## My notes
 
@@ -18,7 +25,7 @@
 | Class D | 1110 | not defined | not defined | 224.0.0.0 | 239.255.255.255 | not defined |
 | Class E | 1111 | not defined | not defined | 240.0.0.0 | 255.255.255.255 | not defined |
 
-
+Class D is reserved for multicast and cannot be used for regular unicast traffic. Class E is reserved and cannot be used on the public Internet.
 
 ### Bit-wise representation
 

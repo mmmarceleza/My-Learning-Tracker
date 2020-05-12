@@ -4,6 +4,14 @@
 
 ***
 
+## 2020 - May 11 
+
+In this date a completed a course about [Redes parte 1: Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao) on [Alura](https://alura.com.br):
+
+Reference:
+
+[![http](../img/network.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Network/network.md#network)
+
 ## 2020 - April 19 
 
 In this date a completed a course about HTTP protocol on [Alura](https://alura.com.br):
