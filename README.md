@@ -34,7 +34,7 @@ To track all the new technology I'm learning, I decided to create a page specifi
 | **HTTP** | **HTML5** | **CSS3** | **JavaScript** | **Tmux** | **AWS** |
 | [![HTTP](img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http) | [![HTML5](img/html5.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/HTML/html.md#html) | [![CSS3](img/css3.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/CSS/css.md#css) | [![JAVASCRIPT](img/js.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/JavaScript/javascript.md#javascript) | [![TMUX](img/tmux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Tmux/tmux.md#tmux) | [![AWS](img/aws.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/AWS/AWS.md#aws) |
 | **UI** | **Networks** | **BASH** | |  |  |
-| [![UI](img/ui.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/UI/UI.md#ui) | [![Networks](img/network.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Network/network.md#network) | [![Bash](img/bash.png)]() |  |  |  |
+| [![UI](img/ui.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/UI/UI.md#ui) | [![Networks](img/network.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Network/network.md#network) | [![Bash](img/bash.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Bash/Bash.md#bash) |  |  |  |
 
 ## Tools I use
 
