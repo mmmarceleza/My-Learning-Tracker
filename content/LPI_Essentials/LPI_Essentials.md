@@ -23,3 +23,8 @@
 | ![essentials 11](../../img/linux-essentials-11.png) | [Certificação Linux LPI Essentials parte 11: Your Computer on the Network](https://cursos.alura.com.br/course/linux-essentials-11) | [Certificate](https://cursos.alura.com.br/certificate/2d14a5e5-a0c1-47ac-9947-ebd3986443da) |
 | ![essentials 12](../../img/linux-essentials-12.png) | [Certificação Linux LPI Essentials parte 12: Security and File Permissions](https://cursos.alura.com.br/course/linux-essentials-12) | [Certificate](https://cursos.alura.com.br/certificate/b52802c0-26c4-428a-bc81-76a84330db3f) |
 
+***
+
+## Exams Objectives
+
+
