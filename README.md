@@ -87,3 +87,11 @@ Everybody has inspiration. I'll try to list some of the content I consume daily 
 - [Self-Hosted](https://selfhosted.show/)
 - [Segurança Legal](https://www.segurancalegal.com/)
 - [Self-Taught Or Not](https://www.selftaughtornot.com/)
+
+### Sites to practice skills
+
+- [HackerRank](https://www.hackerrank.com)
+- [Codewars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [Katacoda](https://www.katacoda.com)
+- [Interview Cake](https://www.interviewcake.com/)
