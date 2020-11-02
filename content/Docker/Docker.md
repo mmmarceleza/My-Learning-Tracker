@@ -38,6 +38,65 @@ $ sudo usermod -aG docker $USER
 ```
 Reboot your system for those changes to take effect.
 ## Basic Commands
+Create a container (without starting it):
+```bash
+docker create [IMAGE]
+```
+Rename an existing container:
+```bash
+docker rename [CONTAINER_NAME] [NEW_CONTAINER_NAME]
+```
+Run a command in a new container:
+```bash
+docker run [IMAGE] [COMMAND]
+```
+ - `docker run --rm [IMAGE]` - removes a container after it exits.
+ - `docker run -td [IMAGE]`-  starts a container and keeps it running.
+ - `docker run -it [IMAGE]`- starts a container, allocates a pseudo-TTY connected to the container’s stdin, and creates an interactive bash shell in the container.
+ - `docker run -it-rm [IMAGE]`- creates, starts, and runs a command inside the container. Once it executes the command, the container is removed.
+Delete a container (if it is not running):
+```bash
+docker rm [CONTAINER]
+```
+Update the configuration of one or more containers:
+```bash
+docker update [CONTAINER]
+```
+## Starting and Stopping Containers
+Start a container:
+```bash
+docker start [CONTAINER]
+```
+Stop a running container:
+```bash
+docker stop [CONTAINER]
+```
+Stop a running container and start it up again:
+```bash
+docker restart [CONTAINER]
+```
+Pause processes in a running container:
+```bash
+docker pause [CONTAINER]
+```
+Unpause processes in a running container:
+```bash
+docker unpause [CONTAINER]
+```
+Block a container until others stop (after which it prints their exit codes):
+```bash
+docker wait [CONTAINER]
+```
+Kill a container by sending a SIGKILL to a running container:
+```bash
+docker kill [CONTAINER]
+```
+
+https://phoenixnap.com/kb/list-of-docker-commands-cheat-sheet
+
+https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
+
+
 Create a new container:
 ```bash
 docker run name_of_the_container
