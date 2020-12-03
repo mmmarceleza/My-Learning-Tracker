@@ -25,6 +25,33 @@
 
 ***
 
-## Exams Objectives
+## Notes About Some Topics or Commands
+
+In this section I'm going to log some important topics to have them as future references for my studies.
 
 
+### Quoting
+
+Quoting is used to disable special treatment of certain characters and words, as well to prevent parameter expansion and preserve what is quoted.
+
+**Escape Character**
+
+A non-quoted backslash **\\** is the bash escape character ands preserves the literal value of the next following character, with the single exception of **newline**.
+
+**Single Quotes**
+
+Single quotes **'** preserves the literal value of every character contained within the quotes, including the escape character.
+
+**Double Quotes**
+
+Double quotes **"** preserve the literal value of most characters contained within the quotes, exceptions include **$** (for variables), **'** (for single quoting), **\\** (for scaping a character).
+
+#### <u>Examples:</u>
+
+This is 'just' a "test".
+
+This is a backslash "\\" and this is a single quote '.
+
+3 double quotes """, and 3 single quotes ''', and three backslashes \\\\\.
+
+This is what a newline character looks like \n, it will create a new line.
