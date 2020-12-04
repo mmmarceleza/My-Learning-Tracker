@@ -48,10 +48,44 @@ Double quotes **"** preserve the literal value of most characters contained with
 
 #### <u>Examples:</u>
 
+Example 01: 
+ 
+Save the following text on a variable e print it using `echo` command: `This is 'just' a "test".`
+
+```bash
+$ var1="This is 'just' a \"test\"."
+$ echo $var1
 This is 'just' a "test".
+```
 
-This is a backslash "\\" and this is a single quote '.
+Example 02: 
+ 
+Save the following text on a variable e print it using `echo` command: `This is a backslash "\" and this is a single quote '.`
 
-3 double quotes """, and 3 single quotes ''', and three backslashes \\\\\.
+```bash
+$ var2="This is a backslash \"\\\" and this is a single quote '."
+$ echo $var2
+This is a backslash "\" and this is a single quote '.
+```
 
+Example 03: 
+ 
+Save the following text on a variable e print it using `echo` command: `3 double quotes """, and 3 single quotes ''', and three backslashes \\\.`
+
+```bash
+$ var3="3 double quotes \"\"\", and 3 single quotes ''', and three backslashes \\\\\\."
+$ echo $var3
+3 double quotes """, and 3 single quotes ''', and three backslashes \\\.
+```
+
+
+Example 04: 
+ 
+Save the following text on a variable e print it using `echo` command: `This is what a newline character looks like \n, it will create a new line.`
+
+```bash
+$ var4="This is what a newline character looks like \\n, it will create a new line."
+$ echo $var4
 This is what a newline character looks like \n, it will create a new line.
+```
+
