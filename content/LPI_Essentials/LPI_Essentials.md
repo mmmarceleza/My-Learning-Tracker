@@ -89,3 +89,20 @@ $ echo $var4
 This is what a newline character looks like \n, it will create a new line.
 ```
 
+***
+
+### Move Command
+
+Move command (`mv`) can be used to move and rename files and folder. Its syntax is as follows:
+
+`mv [OPTIONS] SOURCE DESTINATION`
+
+Files and directories can be used as `SOURCE` and `DESTINATION`. As a result, It's possible to have some scenarios as follows:
+
+- If you want to move multiples files and folders (`SOURCE`), the `DESTINATION` must be a directory. In this situation, the `SOURCE` are moved into the target `DESTIONATION`.
+- If you specify a single file as `SOURCE`, and the `DESTINATION` target is an existing directory, then the file is moved to the specified directory.
+- If you specify a single file as `SOURCE`, and a single file as `DESTINATION` target then you’re renaming the file. If already there is a `DESTINATION` file with that name, it will replaced, no matter if It is empty or not.
+- When the `SOURCE` is a directory and `DESTINATION` doesn’t exist, `SOURCE` will be renamed to `DESTINATION`. Otherwise if `DESTINATION` exist, it be moved inside the `DESTINATION` directory.
+
+***
+
