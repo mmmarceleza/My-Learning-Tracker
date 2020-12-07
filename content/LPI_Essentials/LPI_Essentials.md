@@ -22,6 +22,8 @@
 | ![essentials](../../img/linux-essentials-10.png) | [Certificação Linux LPI Essentials parte 10: Where Data is Stored](https://cursos.alura.com.br/course/linux-essentials-10) | [Certificate](https://cursos.alura.com.br/certificate/b8bf609b-2703-466f-ad66-08efdf92007a) |
 | ![essentials 11](../../img/linux-essentials-11.png) | [Certificação Linux LPI Essentials parte 11: Your Computer on the Network](https://cursos.alura.com.br/course/linux-essentials-11) | [Certificate](https://cursos.alura.com.br/certificate/2d14a5e5-a0c1-47ac-9947-ebd3986443da) |
 | ![essentials 12](../../img/linux-essentials-12.png) | [Certificação Linux LPI Essentials parte 12: Security and File Permissions](https://cursos.alura.com.br/course/linux-essentials-12) | [Certificate](https://cursos.alura.com.br/certificate/b52802c0-26c4-428a-bc81-76a84330db3f) |
+| ![4linux](../../img/4linux.png) | [Linux Beginners in Cloud Online](https://4linux.com.br/cursos/treinamento/linux-beginners-in-cloud/) | [Certificate](https://i.imgur.com/2TGqWft.jpeg) |
+| ![linuxacademy](../../img/linuxacademy.png) | [LPI Linux Essentials Certification](https://acloudguru.com/course/lpi-linux-essentials-certification) | [Certificate](https://linuxacademy.com/profile/u/cert/id/400189) |
 
 ***
 

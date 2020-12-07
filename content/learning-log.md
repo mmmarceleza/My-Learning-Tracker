@@ -4,6 +4,14 @@
 
 ***
 
+## 2020 - December 06
+
+In this date a completed a course about "[LPI Linux Essentials Certification](https://acloudguru.com/course/lpi-linux-essentials-certification)" on [Linux Academy](https://linuxacademy.com). This course is a small step to my Linux certification.
+
+Reference:
+
+[![http](../img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials)
+
 ## 2020 - May 11 
 
 In this date a completed a course about [Redes parte 1: Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao) on [Alura](https://alura.com.br):
@@ -19,6 +27,14 @@ In this date a completed a course about HTTP protocol on [Alura](https://alura.c
 Reference:
 
 [![http](../img/http.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Http/http.md#http)
+
+## 2020 - March 31
+
+In this date a completed a course about "[Linux Beginners in Cloud Online](https://4linux.com.br/cursos/treinamento/linux-beginners-in-cloud/)" on [4Linux](https://4linux.com.br/). This course is a small step to my Linux certification.
+
+Reference:
+
+[![http](../img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials)
 
 ## 2020 - March 28
 
