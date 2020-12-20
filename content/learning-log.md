@@ -6,7 +6,7 @@
 
 ## 2020 - December 13
 
-In this date I achieved my certification on "[LPI Linux Essentials Certification](lpi.org/v/LPI000467925/u2hdlsyzw7)".
+In this date I achieved my certification on "[LPI Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000467925/u2hdlsyzw7)".
 
 Reference:
 
