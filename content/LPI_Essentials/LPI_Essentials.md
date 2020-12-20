@@ -8,7 +8,7 @@
 
 At 2020 December I got my LPI Linux Essentials certification.
 
-[![LPI Essentials Certification](../../img/linux_essentials.png)](lpi.org/v/LPI000467925/u2hdlsyzw7)
+[![LPI Essentials Certification](../../img/linux_essentials.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000467925/u2hdlsyzw7)
 
 ***
 
