@@ -22,11 +22,17 @@ Where you can can find me on internet:
 
 Today I am an Electrical Engineer at [PSO Engenharia Elétrica](https://www.psoengenharia.com.br/), I am responsible for services in different areas of the company. 
 
-As a person with more affinity with IT area in the company, a lot of demands with new implementations became my responsibility. With this new attribution, I discovered that I love all this new world. With a purpose to learn more, I started to study more a I saw a great article on [FreeCodeCamp](https://www.freecodecamp.org/)
+As a person with more affinity with IT area in the company, a lot of demands with new implementations became my responsibility. With this new attribution, I discovered that I love all this new world.
+
+## IT Certifications
+
+At 2020 December I got my LPI Linux Essentials certification.
+
+[![LPI Essentials Certification](img/linux_essentials.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000467925/u2hdlsyzw7)
 
 ## Steps of learning
 
-To track all the new technology I'm learning, I decided to create a page specific to each subject. Just click on the icon to see my notes, courses, videos and texts about the item.
+To track all the new technology I'm learning, I decided to create a page specific to each subject. Just click on the icon to see my notes, courses, videos and texts about the items.
 
 | Linux Essentials | Markdown | Git | SSH | Vim | Docker |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -62,13 +68,13 @@ Everybody has inspiration. I'll try to list some of the content I consume daily 
 
 ### People
 
--[Brad Traversy](https://twitter.com/traversymedia)
+- [Brad Traversy](https://twitter.com/traversymedia)
 
 ### Sites I follow
 
--[FreeCodeCamp](https://www.freecodecamp.org/)
--[It's FOSS](https://itsfoss.com/)
--[LINUX HANDBOOK](https://linuxhandbook.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [It's FOSS](https://itsfoss.com/)
+- [LINUX HANDBOOK](https://linuxhandbook.com/)
 
 ### Podcasts
 
