@@ -4,6 +4,15 @@
 
 ***
 
+## 2020 - December 13
+
+In this date I achieved my certification on "[LPI Linux Essentials Certification](lpi.org/v/LPI000467925/u2hdlsyzw7)".
+
+Reference:
+
+[![http](../img/tux.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/LPI_Essentials/LPI_Essentials.md#lpi-essentials)
+
+
 ## 2020 - December 06
 
 In this date a completed a course about "[LPI Linux Essentials Certification](https://acloudguru.com/course/lpi-linux-essentials-certification)" on [Linux Academy](https://linuxacademy.com). This course is a small step to my Linux certification.

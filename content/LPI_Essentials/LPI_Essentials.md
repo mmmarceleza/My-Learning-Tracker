@@ -4,6 +4,14 @@
 
 ***
 
+## Certification
+
+At 2020 December I got my LPI Linux Essentials certification.
+
+[![LPI Essentials Certification](../../img/linux_essentials.png)](lpi.org/v/LPI000467925/u2hdlsyzw7)
+
+***
+
 ## Completed Courses:
 
 |   | Courses | Certificate |
