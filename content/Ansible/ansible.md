@@ -46,3 +46,28 @@ Other key features
 2. Scaling: Ansible can be used as a configuration management tools to ensure identical environments when scaling to meet demands.
 3. Migrating Environments: Ansible can be used as a tool for migrating applications from integration, testing and production in a reliable and dependable way.
 4. Failure Prevention: Ansible can be used as a tool for reviewing change logs and rolling back applications if failures do occur.
+
+## Similar tools
+
+- Ansible
+    - only install once
+    - pushed based
+    - uses YAML as syntax
+    - control machine must be Linux/Unix
+- Puppet
+    - must be installed on all machines
+    - pull based
+    - uses Puppet DSL as syntax
+    - control machine must be Linux/Unix
+
+- Chef
+    - must be installed on all machines
+    - pull based
+    - uses Ruby as syntax
+    - control machine must be Linux/Unix
+
+- Salt
+    - must be installed on all machines
+    - pull/pushed based
+    - uses YAML as syntax
+    - control machine must be Linux/Unix
