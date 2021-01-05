@@ -4,6 +4,12 @@
 
 ***
 
+## Completed Courses:
+
+|   | Courses | Certificate |
+|:---:|:---:|:---:|
+| ![Ansible](../../img/ansible.png) | [Introduction to Ansible](https://linuxacademy.com/cp/modules/view/id/717) | [Certificate](https://linuxacademy.com/profile/u/cert/id/407488) |
+
 ## What is Ansible?
 
 Ansible is an open source tool that enables automation, configuration and orchestration of infrastructure.

@@ -4,6 +4,15 @@
 
 ***
 
+## 2021 - January 05
+
+In this date a completed a course about "[Introduction to Ansible](https://linuxacademy.com/cp/modules/view/id/717)" on [Linux Academy](https://linuxacademy.com).
+
+Reference:
+
+[![http](../img/ansible.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Ansible/ansible.md#ansible)
+
+
 ## 2020 - December 13
 
 In this date I achieved my certification on "[LPI Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000467925/u2hdlsyzw7)".
