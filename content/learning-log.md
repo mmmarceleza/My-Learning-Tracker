@@ -4,6 +4,14 @@
 
 ***
 
+## 2021 - January 07
+
+In this date a completed a course about "[Docker Quick Start](https://acloudguru.com/course/docker-quick-start)" on [Linux Academy](https://linuxacademy.com).
+
+Reference:
+
+[![http](../img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Docker/Docker.md#docker)
+
 ## 2021 - January 05
 
 In this date a completed a course about "[Introduction to Ansible](https://linuxacademy.com/cp/modules/view/id/717)" on [Linux Academy](https://linuxacademy.com).
