@@ -10,6 +10,7 @@
 |:---:|:---:|:---:|
 | ![Docker](../../img/docker-alura.png) | [Docker: Criando containers sem dor de cabeça](https://cursos.alura.com.br/course/docker-e-docker-compose) | [Certificate](https://cursos.alura.com.br/certificate/2b0189ad-54fa-4016-b05d-a0e2bad1464c) |
 | ![Docker](../../img/linuxacademy.png) | [Docker Quick Start](https://acloudguru.com/course/docker-quick-start) | [Certificate](https://linuxacademy.com/profile/u/cert/id/407900) |
+| ![Docker](../../img/linuxacademy.png) | [Essential Container Concepts](https://acloudguru.com/course/essential-container-concepts) | [Certificate](https://linuxacademy.com/profile/u/cert/id/408050) |
 
 ## Install Docker on Manjaro
 First step, update the system:

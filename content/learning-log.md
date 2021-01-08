@@ -6,6 +6,14 @@
 
 ## 2021 - January 07
 
+In this date a completed a course about "[Essential Container Concepts](https://acloudguru.com/course/essential-container-concepts)" on [Linux Academy](https://linuxacademy.com).
+
+Reference:
+
+[![http](../img/docker.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Docker/Docker.md#docker)
+
+## 2021 - January 07
+
 In this date a completed a course about "[Docker Quick Start](https://acloudguru.com/course/docker-quick-start)" on [Linux Academy](https://linuxacademy.com).
 
 Reference:
