@@ -11,6 +11,16 @@
 | ![Docker](../../img/docker-alura.png) | [Docker: Criando containers sem dor de cabeça](https://cursos.alura.com.br/course/docker-e-docker-compose) | [Certificate](https://cursos.alura.com.br/certificate/2b0189ad-54fa-4016-b05d-a0e2bad1464c) |
 | ![Docker](../../img/linuxacademy.png) | [Docker Quick Start](https://acloudguru.com/course/docker-quick-start) | [Certificate](https://linuxacademy.com/profile/u/cert/id/407900) |
 | ![Docker](../../img/linuxacademy.png) | [Essential Container Concepts](https://acloudguru.com/course/essential-container-concepts) | [Certificate](https://linuxacademy.com/profile/u/cert/id/408050) |
+| ![Docker](../../img/linuxacademy.png) | [Docker - Deep Dive](https://acloudguru.com/course/docker-deep-dive) | [Certificate](https://linuxacademy.com/profile/u/cert/id/410566) |
+
+## Introduction
+
+### Why you should use Docker
+
+- In the first hand, using docker give the same environment comparing developing and production. This way is a lot easy to track bugs when they manifest.
+- We can simplify your configuration using code to deploy your application;
+- We can deploy your solutions faster and reuse your code in another situations.
+- Apps are isolated in your each container.
 
 ## Install Docker on Manjaro
 First step, update the system:
