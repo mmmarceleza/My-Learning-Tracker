@@ -4,6 +4,14 @@
 
 ***
 
+## 2021 - January 24
+
+In this date a completed a course about "[Apache Web Server: Administration](https://www.linkedin.com/learning/apache-web-server-administration)" on [Linkedin Learning](https://www.linkedin.com/learning/).
+
+Reference:
+
+[![http](../img/apache_logo.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Apache/apache.md#apache)
+
 ## 2021 - January 19
 
 In this date a completed a course about "[Docker - Deep Dive](https://acloudguru.com/course/docker-deep-dive)" on [Linux Academy](https://linuxacademy.com).
