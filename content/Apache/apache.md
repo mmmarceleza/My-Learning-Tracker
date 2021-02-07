@@ -9,6 +9,7 @@
 |   | Courses | Certificate |
 |:---:|:---:|:---:|
 | ![Apache](../../img/apache_logo.png) | [Apache Web Server: Administration](https://www.linkedin.com/learning/apache-web-server-administration) | [Certificate](https://www.linkedin.com/in/marcelomarquesmelo/) |
+| ![Apache](../../img/apache_logo.png) | [Linux: Web Services](https://www.linkedin.com/learning/linux-web-services) | [Certificate](https://www.linkedin.com/in/marcelomarquesmelo/) |
 
 ## Introduction
 

@@ -4,6 +4,22 @@
 
 ***
 
+## 2021 - February 07
+
+In this date a completed a course about "[Learning GitHub Actions](https://www.linkedin.com/learning/learning-github-actions-2)" on [Linkedin Learning](https://www.linkedin.com/learning/).
+
+Reference:
+
+[![http](../img/git.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Git/Git.md#git)
+
+## 2021 - January 27
+
+In this date a completed a course about "[Linux: Web Services](https://www.linkedin.com/learning/linux-web-services)" on [Linkedin Learning](https://www.linkedin.com/learning/).
+
+Reference:
+
+[![http](../img/apache_logo.png)](https://github.com/mmmarceleza/My-Learning-Tracker/blob/master/content/Apache/apache.md#apache)
+
 ## 2021 - January 24
 
 In this date a completed a course about "[Apache Web Server: Administration](https://www.linkedin.com/learning/apache-web-server-administration)" on [Linkedin Learning](https://www.linkedin.com/learning/).

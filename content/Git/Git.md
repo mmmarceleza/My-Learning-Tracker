@@ -9,6 +9,7 @@
 |   | Courses | Certificate |
 |:---:|:---:|:---:|
 | ![Git](../../img/git-alura.png) | [Git e Github: Controle e compartilhe seu código](https://cursos.alura.com.br/course/git-github-controle-de-versao) | [Certificate](https://cursos.alura.com.br/certificate/b124f9f3-4e68-4ec8-a1f9-218159f6ff9a) |
+| ![Git](../../img/git_44.png) | [Learning GitHub Actions](https://www.linkedin.com/learning/learning-github-actions-2) | [Certificate](https://www.linkedin.com/in/marcelomarquesmelo/) |
 
 ***
 
