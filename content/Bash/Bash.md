@@ -118,3 +118,6 @@ To configure Powerline in tmux, add the following to your `~/.tmux.conf` file:
 set -g default-terminal "screen-256color"
 source "/usr/share/powerline/bindings/tmux/powerline.conf"
 ```
+## Other options
+
+[Starship](https://starship.rs/)
